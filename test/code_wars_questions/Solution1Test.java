@@ -1,4 +1,5 @@
-import code_wars_questions.Solution1;
+package code_wars_questions;
+
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import org.junit.runners.JUnit4;

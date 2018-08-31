@@ -25,9 +25,7 @@ public class DnaStrand
                   break;
           }
           
-      }
-      
-      
+      }    
       return temp.toString();
   }
 }
